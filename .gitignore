@@ -1,1 +1,4 @@
 vendor
+server/vendor
+client/vendor
+go.sum
